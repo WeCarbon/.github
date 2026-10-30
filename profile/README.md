@@ -6,4 +6,5 @@ WeCarbon is a global ClimateTech firm offering AI-powered sustainability solutio
 
 ## Open source
 
-- [decisions-md](https://github.com/WeCarbon/decisions-md) — a task and decision hub for long-running AI agents: plain markdown files, a live terminal bench.
+- [decisions-md](https://github.com/WeCarbon/decisions-md): a task and decision hub for long-running AI agents. Plain markdown files, a live terminal bench.
+- [formist-cli](https://github.com/WeCarbon/formist-cli): `fm`, the command-line client for [Formist](https://formist.ai). Spaces, knowledge-base search, chats and files from your terminal. `pipx install formist-cli`
